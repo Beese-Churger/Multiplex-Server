@@ -1,0 +1,20 @@
+﻿  MultiplexClient.cpp
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\MultiplexClient.cpp(150,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\MultiplexClient.cpp(202,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\MultiplexClient.cpp(202,13): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\MultiplexClient.cpp(202,13): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\MultiplexClient.cpp(202,13): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\MultiplexClient.cpp(208,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\MultiplexClient.cpp(208,13): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\MultiplexClient.cpp(208,13): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\MultiplexClient.cpp(208,13): message : consider using '%I64d' in the format string
+  packet_manager.cpp
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\packet_manager.cpp(12,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\packet_manager.cpp(18,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\packet_manager.cpp(30,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\packet_manager.cpp(56,9): warning C4101: 'ReturnLength': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\packet_manager.cpp(75,69): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\packet_manager.cpp(83,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\Multiplex Client\packet_manager.cpp(98,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Multiplex Client.vcxproj -> C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Client\x64\Debug\Multiplex Client.exe

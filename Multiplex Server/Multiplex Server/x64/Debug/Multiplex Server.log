@@ -1,0 +1,133 @@
+﻿  MultiplexServer.cpp
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(48,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(59,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(79,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(85,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(95,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(101,51): warning C4244: 'argument': conversion from 'SOCKET' to 'const int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(107,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(132,21): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(146,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(155,21): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(155,21): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(155,21): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(155,21): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(160,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(192,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(219,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(237,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(245,21): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(245,21): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(245,21): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(245,21): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(250,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(290,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(322,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(328,22): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(328,22): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(328,22): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(328,22): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(337,23): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(337,23): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(337,23): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(337,23): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(346,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(393,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(446,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(469,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(497,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(413,6): warning C4101: 'FD_Index': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(557,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(573,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(588,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(513,6): warning C4101: 'FD_Index': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(607,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(622,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(636,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(646,28): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(646,28): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(646,28): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(646,28): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(647,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(653,54): warning C4244: 'argument': conversion from 'SOCKET' to 'const int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(658,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(669,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(690,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(700,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(707,26): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(707,26): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(707,26): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(707,26): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(708,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(718,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(733,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(740,21): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(740,21): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(740,21): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(740,21): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(753,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(727,7): warning C4101: 'HelpMessage': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(764,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(787,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(793,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(800,51): warning C4244: 'argument': conversion from 'SOCKET' to 'const int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(804,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(810,76): warning C4244: 'argument': conversion from 'SOCKET' to 'const int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(814,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(829,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(766,6): warning C4101: 'SuccessMessageLength': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(768,6): warning C4101: 'WhisperMessageLength': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(767,7): warning C4101: 'WhisperMessage': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(765,7): warning C4101: 'SuccessMessage': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(840,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(855,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(860,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(867,51): warning C4244: 'argument': conversion from 'SOCKET' to 'const int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(871,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(881,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(896,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(842,6): warning C4101: 'SuccessMessageLength': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(837,6): warning C4101: 'MsgPos': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(844,6): warning C4101: 'WhisperMessageLength': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(843,7): warning C4101: 'WhisperMessage': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(841,7): warning C4101: 'SuccessMessage': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(906,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(956,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(928,7): warning C4101: 'HelpMsg': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1051,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1051,13): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1051,13): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1051,13): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1080,23): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1080,23): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1080,23): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1080,23): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1084,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1087,14): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1087,14): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1087,14): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1087,14): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1097,23): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1097,23): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1097,23): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1097,23): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1101,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1103,14): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1103,14): message : consider using '%lld' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1103,14): message : consider using '%Id' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1103,14): message : consider using '%I64d' in the format string
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1130,44): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1207,78): warning C4244: 'argument': conversion from 'SOCKET' to 'const int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1211,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1219,78): warning C4244: 'argument': conversion from 'SOCKET' to 'const int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\MultiplexServer.cpp(1224,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  packet_manager.cpp
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\packet_manager.cpp(12,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\packet_manager.cpp(18,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\packet_manager.cpp(30,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\packet_manager.cpp(56,9): warning C4101: 'ReturnLength': unreferenced local variable
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\packet_manager.cpp(75,65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\packet_manager.cpp(83,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\Multiplex Server\packet_manager.cpp(98,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Multiplex Server.vcxproj -> C:\Users\admin\source\repos\Assignment2_211788R_Jonathan\Multiplex Server\x64\Debug\Multiplex Server.exe
